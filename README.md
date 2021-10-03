@@ -7,4 +7,4 @@ The exe file for windows user is in the dist forder.
 1. add a txt file name all.txt near the exe file
 2. add the words which you want to download at the txt file
 3. run the exe file
-4. audio will save at a forder in same folder
+4. audio will save in a forder in same folder
