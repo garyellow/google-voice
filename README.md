@@ -1,5 +1,5 @@
 # google_voice
-Download the voice from the text in the file line by line
+Download the text voice in the file line by line
 
 The exe file for windows user is in the dist forder.
 
