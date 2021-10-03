@@ -1,7 +1,7 @@
 # google_voice
 Download the text voice in the file line by line
 
-The exe file for windows user is in the dist forder.
+The exe file for windows users is in the dist folder.
 
 ## Steps
 1. add a txt file name all.txt near the exe file
